@@ -40,6 +40,12 @@ h4{
     margin-bottom: 10px;
 }
 
+#rodape {
+    height: 50px;
+    background-color: rgb(253, 165, 165);
+    clear: both;
+}
+
 #exercicio1 {
 	width: 50%;
     height: 600px;
